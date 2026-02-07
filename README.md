@@ -32,3 +32,41 @@ Desenvolvimento de scripts em **Python**, utilizando **SAP GUI Scripting** e aut
 ---
 
 ## 🗄️ Estrutura do Projeto
+sap-process-automation/
+│
+├── scripts/
+│ ├── faturamento.py
+│ ├── escrituracao.py
+│ └── relatorios.py
+│
+├── data/
+│ ├── input/
+│ └── output/
+│
+├── logs/
+│
+└── README.md
+
+---
+
+## 🧪 Tecnologias Utilizadas
+- Python
+- SAP GUI Scripting
+- Excel / CSV
+- Conceitos de RPA
+- Automação de Processos
+
+---
+
+## 📊 Resultados Esperados
+- Redução significativa do tempo manual
+- Diminuição de erros operacionais
+- Dados padronizados e rastreáveis
+- Base estruturada para análises e dashboards
+
+---
+
+## 🚀 Próximos Passos
+- Integração com banco de dados
+- Monitoramento automático
+- Expansão para novos processos SAP
